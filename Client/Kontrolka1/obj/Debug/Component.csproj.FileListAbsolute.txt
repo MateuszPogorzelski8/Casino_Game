@@ -1,0 +1,10 @@
+C:\Repo\Casino_Game\Client\Kontrolka1\bin\Debug\Kontrolka1.dll.config
+C:\Repo\Casino_Game\Client\Kontrolka1\bin\Debug\Kontrolka1.dll
+C:\Repo\Casino_Game\Client\Kontrolka1\bin\Debug\Kontrolka1.pdb
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Component.csproj.AssemblyReference.cache
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Kontrolka1.Bilans_słupek.resources
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Kontrolka1.Panel_boczny.resources
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Component.csproj.GenerateResource.cache
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Component.csproj.CoreCompileInputs.cache
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Kontrolka1.dll
+C:\Repo\Casino_Game\Client\Kontrolka1\obj\Debug\Kontrolka1.pdb
