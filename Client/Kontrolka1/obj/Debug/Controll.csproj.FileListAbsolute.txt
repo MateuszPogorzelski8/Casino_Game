@@ -1,0 +1,10 @@
+D:\kopia\TEN\Kontrolka1\bin\Debug\Kontrolka1.dll.config
+D:\kopia\TEN\Kontrolka1\bin\Debug\Kontrolka1.dll
+D:\kopia\TEN\Kontrolka1\bin\Debug\Kontrolka1.pdb
+D:\kopia\TEN\Kontrolka1\obj\Debug\Controll.csproj.AssemblyReference.cache
+D:\kopia\TEN\Kontrolka1\obj\Debug\Kontrolka1.Bilans_słupek.resources
+D:\kopia\TEN\Kontrolka1\obj\Debug\Kontrolka1.Panel_boczny.resources
+D:\kopia\TEN\Kontrolka1\obj\Debug\Controll.csproj.GenerateResource.cache
+D:\kopia\TEN\Kontrolka1\obj\Debug\Controll.csproj.CoreCompileInputs.cache
+D:\kopia\TEN\Kontrolka1\obj\Debug\Kontrolka1.dll
+D:\kopia\TEN\Kontrolka1\obj\Debug\Kontrolka1.pdb

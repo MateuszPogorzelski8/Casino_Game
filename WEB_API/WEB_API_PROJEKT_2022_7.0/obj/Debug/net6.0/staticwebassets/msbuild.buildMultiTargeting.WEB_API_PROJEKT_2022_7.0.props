@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEB_API_PROJEKT_2022_7.0.props" />
+</Project>

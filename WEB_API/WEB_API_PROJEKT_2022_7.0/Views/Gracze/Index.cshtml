@@ -1,0 +1,70 @@
+﻿@using API;
+@model Player[]
+
+@{
+    ViewData["Title"] = "Kasyno Czerwony Smok";
+}
+
+
+<h1>Kasyno Czerwony Smok</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark">Create New</a>
+</p>
+<form asp-action="Index">
+    <div class="card text-center">
+        <div class="card-header bg-danger text-white"> Kasyno Czerwony Smok </div>
+            <img src="https://freerangestock.com/thumbnail/118695/dragon-silhouette-.jpg" class="card-img" width="125" height="325" alt="Red_Dragon.jpeg">
+        <div class="card-img-overlay position-absolute top-50 start-50 translate-middle">
+            <style type='text/css'>
+                
+                h3 {
+                    color: red;
+                }
+
+            </style>
+            <h3 class="card-text" >Search for the player</h3>
+            <input type="search" name="username"/>
+            <input type="submit" class="btn btn-primary" value="SEARCH" />
+        </div>
+        <div class="card-footer text-muted">
+            by Mateusz Pogorzelski
+        </div>
+    </div>
+
+</form>
+
+<table class="table">
+
+    <thead>
+        @foreach (var p in Model)
+{
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => p.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => p.Cash )
+            </th>
+        </tr>
+        break;
+}
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cash) $
+            </td>
+            <td>
+                @Html.ActionLink("Banuj", "Ban",            new {  name=item.Name }, new{@class="btn btn-danger"}) |
+                @Html.ActionLink("Edytuj", "Edit",     new { name=item.Name }, new{@class= "btn btn-info"}) |
+                @Html.ActionLink("Usuń", "Delete",                   new { name=item.Name},   new{@class="btn btn-outline-danger btn-sm"}) |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

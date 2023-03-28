@@ -1,0 +1,20 @@
+﻿@using API
+@model Player[]
+
+@{
+    ViewData["Title"] = "Witamy na recepcji";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="background-color:powderblue;">Witamy na serwerze</h1>
+    <h2 class="display-4" style="background-color:brown">Admin list</h2>
+    @foreach(var p in Model)
+    {
+        <p>@p.Name @p.Cash $ </p>
+    }
+
+    <p>
+        <a asp-action="Application" class="btn btn-dark">Wyślij zgłoszenie</a>
+    </p>
+
+</div>

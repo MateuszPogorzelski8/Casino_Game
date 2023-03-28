@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="web_api_bazaModelStoreContainer" CdmEntityContainer="web_api_bazaEntities">
+    <EntitySetMapping Name="Gracze">
+      <EntityTypeMapping TypeName="web_api_bazaModel.Gracze">
+        <MappingFragment StoreEntitySet="Gracze">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Haslo" ColumnName="Haslo" />
+          <ScalarProperty Name="Cash" ColumnName="Cash" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

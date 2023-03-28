@@ -1,0 +1,12 @@
+D:\kopia\WCF\Server\bin\Debug\Server.exe.config
+D:\kopia\WCF\Server\bin\Debug\Server.exe
+D:\kopia\WCF\Server\bin\Debug\Server.pdb
+D:\kopia\WCF\Server\bin\Debug\WCF.dll
+D:\kopia\WCF\Server\bin\Debug\WCF.pdb
+D:\kopia\WCF\Server\bin\Debug\WCF.dll.config
+D:\kopia\WCF\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\kopia\WCF\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\kopia\WCF\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\kopia\WCF\Server\obj\Debug\Server.csproj.CopyComplete
+D:\kopia\WCF\Server\obj\Debug\Server.exe
+D:\kopia\WCF\Server\obj\Debug\Server.pdb

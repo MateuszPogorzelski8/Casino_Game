@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WCF\WCF\bin\Debug\WCF.dll.config
+C:\Users\Admin\source\repos\WCF\WCF\bin\Debug\WCF.dll
+C:\Users\Admin\source\repos\WCF\WCF\bin\Debug\WCF.pdb
+C:\Users\Admin\source\repos\WCF\WCF\obj\Debug\WCF.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WCF\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\Admin\source\repos\WCF\WCF\obj\Debug\WCF.pdb
+D:\kopia\WCF\WCF\bin\Debug\WCF.dll.config
+D:\kopia\WCF\WCF\bin\Debug\WCF.dll
+D:\kopia\WCF\WCF\bin\Debug\WCF.pdb
+D:\kopia\WCF\WCF\obj\Debug\WCF.csproj.AssemblyReference.cache
+D:\kopia\WCF\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+D:\kopia\WCF\WCF\obj\Debug\WCF.dll
+D:\kopia\WCF\WCF\obj\Debug\WCF.pdb

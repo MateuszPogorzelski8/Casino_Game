@@ -1,0 +1,30 @@
+﻿@model Program
+
+@{
+    ViewData["Title"] = "Application";
+}
+
+<h1 class="text-success">Application</h1>
+
+<h4 class="text-secondary">Tell us something about yourself and why you want to join us?</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Application">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <textarea id="application-text" name="application-text" rows="4" cols="50">
+                    Hi my name is John and my passion is graphic design, I want to join your team to help you with interesting casino projects :)                </textarea>
+                <input type="submit" value="Send" class="btn btn-dark" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
